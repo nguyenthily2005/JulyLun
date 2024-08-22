@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Hoang Luan but you can call me JulyLun 🌸
+I'm trying to create md file used to introduce my Github profile.
 <!--
 **Julylun/JulyLun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
