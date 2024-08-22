@@ -1,5 +1,8 @@
-## Hi there, I'm Hoang Luan but you can call me JulyLun 🌸
+## Hi, JulyLun here! I'm a newbie coding student. 🌸
 I'm trying to create md file used to introduce my Github profile.
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 <!--
 **Julylun/JulyLun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
